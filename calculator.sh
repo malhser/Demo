@@ -21,5 +21,5 @@ sin(90)
 Percentage
 
 cos(90)
-
+tan 90
 
