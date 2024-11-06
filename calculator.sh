@@ -20,4 +20,6 @@ sin(90)
 
 Percentage
 
+cos(90)
+
 
