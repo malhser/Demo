@@ -15,3 +15,5 @@ x=a*b
 division
 
 x=a/b
+
+sin(90)
